@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: tccprojeto
+Bundle-SymbolicName: tccprojeto
+Bundle-Version: 1.0.0.qualifier
+Export-Package: br.com.tccprojeto.conexao,
+ br.com.tccprojeto.dao,
+ br.com.tccprojeto.modelo,
+ br.com.tccprojeto.teste
